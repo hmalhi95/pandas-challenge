@@ -11,43 +11,11 @@ Overall, smaller and medium sized schools out-performed large sized schools in o
 
 ## District Summary
 ### I created a Data Frame that highlighted:
-Total number of unique schools
-
-Total students
-
-Total budget
-
-Average math score
-
-Average reading score
-
-% passing math (the percentage of students who passed math)
-
-% passing reading (the percentage of students who passed reading)
-
-% overall passing (the percentage of students who passed math AND reading)
+Total number of unique schools, Total students, Total budget, Average math score, Average reading score, % passing math (the percentage of students who passed math), % passing reading (the percentage of students who passed reading), % overall passing (the percentage of students who passed math AND reading)
 
 ## School Summary
 ### I created a Data Frame that highlighted:
-School name
-
-School type
-
-Total students
-
-Total school budget
-
-Per student budget
-
-Average math score
-
-Average reading score
-
-% passing math (the percentage of students who passed math)
-
-% passing reading (the percentage of students who passed reading)
-
-% overall passing (the percentage of students who passed math AND reading)
+School name, School type, Total students, Total school budget, Per student budget, Average math score, Average reading score, % passing math (the percentage of students who passed math), % passing reading (the percentage of students who passed reading), % overall passing (the percentage of students who passed math AND reading)
 
 ## Highest-Performing Schools (by % Overall Passing)
 ### I created a Data Frame that displayed the top 5 performing schools
